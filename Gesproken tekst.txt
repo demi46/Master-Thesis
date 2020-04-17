@@ -1,0 +1,808 @@
+	”character”	”Dialoge”
+2	”Hobbit”	” You're late!”
+2	”Old Man”	” A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to.”
+2	”Frodo”	” < leaps onto cart and hugs the old man > Its wonderful to see you Gandalf!”
+2	”Gandalf”	” < laughs > Ooh! You didn’t think I’d miss your Uncle Bilbo's birthday?”
+2	”Frodo”	” What news of the outside world? Tell me everything.”
+2	”Gandalf”	###############################################################################################################################################################################################################################################################
+2	”Hobbit folk”	” Look it's Gandalf! Its Gandalf!”
+2	”Gandalf”	” Ooh! The long expected party!”
+2	”Gandalf”	” So how is the old rascal? I hear it’s got to be a party of special magnificence.”
+2	”Frodo”	” You know Bilbo, he's got the whole place in an uproar.”
+2	”Gandalf”	” Hmm, well now that should please him, hmmm.”
+3	”Frodo”	” Half the Shire’s been invited.”
+3	”Gandalf”	” Good gracious me!”
+3	”Frodo”	” He is up to something.”
+3	”Gandalf”	” Oh really…”
+3	”Frodo”	” All right then keep your secrets. < Gandalf laughs > Before you came along we Bagginses were very well thought of.”
+3	”Gandalf”	” Indeed?”
+3	”Frodo”	” Never had any adventures or did anything unexpected.”
+3	”Gandalf”	” If you’re referring to the incident with the dragon, I was barely involved. All I did was give your uncle a little nudge out of the door.”
+3	”Frodo”	” Whatever you did, you’ve been officially labeled a disturber of the peace.”
+3	”Gandalf”	” Oh really?”
+3	”Hobbit children”	” Gandalf! Gandalf! Fireworks? Gandalf?”
+3	”Hobbit children”	” < dissapointed > Awwww.”
+4	”Frodo”	” Gandalf, I'm glad you're back.”
+4	”Gandalf”	” < as Frodo jumps off the cart > So am I, dear boy! So am I.”
+5	”Bilbo”	” < from within > No thank you! We don't want any more visitors, well-wishers or distant relations!”
+5	”Gandalf”	” And what about very old friends?”
+5	”Bilbo”	” Gandalf?”
+5	”Gandalf”	” Bilbo Baggins!”
+5	”Bilbo”	” My dear Gandalf! < gives Gandalf a hug >”
+5	”Gandalf”	” Good to see you! One hundred and eleven years old --who would believe it? < looks at Bilbo in astonishment > You haven't aged a day.”
+6	”Bilbo”	###############################################################################################################################################################################################################################################################
+6	”Gandalf”	” Just tea, thank you.”
+6	”Bilbo”	###############################################################################################################################################################################################################################################################
+6	”Gandalf”	” Just tea, thank you.”
+6	”Bilbo”	” Alright! < with mouthful of cake > You don't mind if I eat, do you?”
+6	”Gandalf”	” Oh no, not at all.”
+6	”Bilbo”	” < whispers > I'm not at home!”
+6	”Bilbo”	” I've got to get away from these confounded relatives hanging on the bell--they never give me a moment's peace! I want to see mountains again, mountains Gandalf! And then find somewhere quiet where I can finish my book. Oh, tea!”
+6	”Gandalf”	” So, you mean to go through with your plan, then.”
+6	”Bilbo”	” Yes, yes. It's all in hand. All the arrangements are made. < starts to pour water into the tea pot, Gandalf opens the lid > Oh, thank you.”
+6	”Gandalf”	” Frodo suspects something.”
+6	”Bilbo”	” ‘Course he does. He's a Baggins! Not some block-headed Bracegirdle from Hardbottle.”
+6	”Gandalf”	” You will tell him, won't you?”
+6	”Bilbo”	” Yes, yes.”
+6	”Gandalf”	” He's very fond of you.”
+6	”Bilbo”	” I know. He'd probably come with me if I asked him < chuckles >. I think in his heart Frodo is still in love with the Shire”
+7	”Bilbo”	” Old Toby. The finest weed in the Southfarthing.”
+7	”Bilbo”	” Gandalf, my old friend. This will be a night to remember!”
+7	”Bilbo”	” < to guest > Hello, hello, Fatty Bolger, lovely to see you! Welcome, welcome!”
+8	”Frodo”	” < sits beside him > Go on Sam! Ask Rosie for a dance.”
+8	”Sam”	” < gets cold feet > I think I’ll just have another ale.”
+8	”Frodo”	” Oh no you don’t. Go on. < pushes Sam to the dance floor and into Rosie’s arms. Frodo laughs aloud >”
+8	”Gandalf”	” < setting off a firework > Whoa!”
+8	”Bilbo”	” There I was, at the mercy of three monstrous trolls! And they were all arguing amongst themselves about how they were going to cook us, whether it be turned on a spit or whether they should sit on us one by one and squash us into jelly.”
+8	”Bilbo”	” They spent so much time arguing the wither-tos and why-fors, that when the sun’s first light cracked over the top of the trees and poof!”
+8	”Hobbit Children”	” < gasp >”
+8	”Bilbo”	” It turned them all to stone!”
+8	”Merry”	” Quickly!”
+8	”Gandalf”	” Whoa! Off they go.”
+8	”Merry”	” No, no the big one, big one”
+8	”Pippin”	” Done.”
+8	”Merry”	” You’re supposed to stick it in the ground!”
+8	”Pippin”	” It is in the ground.”
+8	”Merry”	” Outside!”
+8	”Pippin”	” It was your idea!”
+8	”Hobbit”	” Look at that!”
+8	”Frodo”	” Bilbo? Bilbo, look out for the dragon!”
+8	”Bilbo”	” Dragon? Nonsense! There hasn’t been a dragon in these parts for a thousand years…”
+8	”Merry”	” That was good!”
+8	”Pippin”	” Let’s get another one!”
+8	”Merry and Pippin”	” Aah!”
+8	”Gandalf”	” Meriadoc Brandybuck and Peregrin Took. I might have known.”
+8	”Hobbits”	” Speech, Bilbo! Speech!”
+8	”Frodo”	” Speech!”
+8	”Bilbo”	” My dear Bagginses and Boffins, < cheers > Tooks and Brandybucks, < cheers > Grubbs, < cheers > Chubbs, < cheers > Hornblowers, < cheers > Bolgers, < cheers > Bracegirdles < cheers > and Proudfoots.”
+8	”Proudfoot Hobbit”	” Proudfeet!”
+8	”Bilbo”	” Today is my 111th birthday!”
+8	”Hobbits”	” Happy birthday!”
+8	”Hobbit”	” Happy birthday!”
+8	”Bilbo”	###############################################################################################################################################################################################################################################################
+8	”Bilbo”	###############################################################################################################################################################################################################################################################
+8	”Hobbits”	” < shocked > Ooh!”
+8	”Bilbo”	” Hahahahaha! < flips the ring, catches it and puts it in his pocket >”
+10	”Gandalf”	” I suppose you think that was terribly clever.”
+10	”Bilbo”	” Come on Gandalf! Did you see their faces?”
+10	”Gandalf”	” There are many magic rings in this world Bilbo Baggins and none of them should be used lightly.”
+10	”Bilbo”	” It was just a bit of fun! Oh you’re probably right, as usual. You will keep an eye on Frodo, won’t you?”
+10	”Gandalf”	” Two eyes, as often as I can spare them.”
+10	”Bilbo”	” I’m leaving everything to him.”
+10	”Gandalf”	” What about this Ring of yours, is that staying too?”
+10	”Bilbo”	” Yes, yes. It’s in an envelope over there on the mantelpiece. < Gandalf turns to look >”
+10	”Bilbo”	” No, wait, its --here in my pocket. Heh, isn’t that, isn’t that odd though? < looks at the Ring > Yet, after all why not? Why shouldn’t I keep it?”
+10	”Gandalf”	” I think you should leave the Ring behind, Bilbo. Is that so hard?”
+10	”Bilbo”	” Well no… and yes! Now it comes to it, I don’t feel like parting with it, its mine, I found it, it came to me!”
+10	”Gandalf”	” There’s no need to get angry.”
+10	”Bilbo”	” What if I’m angry, it’s your fault! < caresses Ring > It’s mine! My own, my precious.”
+10	”Gandalf”	” Precious? Its been called that before, but not by you.”
+10	”Bilbo”	” Argh! What business is it of yours what I do with my own things!”
+10	”Gandalf”	” I think you’ve had that Ring quite long enough.”
+10	”Bilbo”	” You want it for yourself!”
+10	”Gandalf”	” Bilbo Baggins! Do not take me for some conjurer of cheap tricks. I am not trying to rob you. I’m trying to help you.”
+10	”Bilbo”	” < starts weeping >”
+10	”Gandalf”	” All your long years we’ve been friends. Trust me as you once did, hmm? Let it go.”
+10	”Bilbo”	” < collects himself > You’re right Gandalf, the Ring must go to Frodo. It’s late, the road is long. Yes it is time.”
+10	”Gandalf”	” Bilbo…”
+10	”Bilbo”	” Hmm?”
+10	”Gandalf”	” …the Ring is still in your pocket.”
+10	”Bilbo”	” Oh, yes…”
+11	”Bilbo”	"” I’ve thought of an ending for my book. < turns to Gandalf at the door > ""And he lived happily ever after…to the end of his days"".”"
+11	”Gandalf”	” And I’m sure you will my dear friend.”
+11	”Bilbo”	” Good bye, Gandalf.”
+11	”Gandalf”	” Good bye, dear Bilbo.”
+11	”Bilbo”	” The road goes ever on and on, down from the door where it began…”
+11	”Gandalf”	” Until our next meeting.”
+11	”Gandalf”	” < mumbles > Riddles in the Dark.”
+11	”Frodo”	” Bilbo! Bilbo!”
+11	”Gandalf”	” < mumbles > My precious.”
+11	”Gandalf”	” < mumbles > Precious…”
+11	”Frodo”	” He's gone hasn't he? He talked for so long about leaving. I didn't think he'd really do it.”
+11	”Frodo”	” Gandalf?”
+11	”Gandalf”	###############################################################################################################################################################################################################################################################
+11	”Frodo”	” Where are you going?”
+11	”Gandalf”	” There are some things that I must see to.”
+11	”Frodo”	” What things?”
+11	”Gandalf”	” Questions. Questions that need answering!”
+11	”Frodo”	” But you've only just arrived! I don't understand.”
+11	”Gandalf”	” < looks back at Frodo > Neither do I. Keep it secret. Keep it safe.”
+11	”Gollum”	” Shire!!! Baggins!!!”
+17	”Gandalf”	###############################################################################################################################################################################################################################################################
+18	”Ringwraith”	” Shire. Baggins.”
+18	”Hobbit”	” < fearful > Baggins. There are no Baggins ‘round here. They’re up in Hobbiton, that way. < points >”
+18	”Rosie”	” Goodnight.”
+18	”Sam”	” Goodnight.”
+18	”Sam”	” Goodnight.”
+18	”Frodo”	” Goodnight Sam.”
+18	”Frodo”	” < startled > Huh?!”
+21	”Gandalf”	” Is it secret?! Is it safe?!”
+22	”Frodo”	” Ah! < hands Gandalf the envelope >”
+22	”Frodo”	” < alarmed > What are you doing?”
+22	”Gandalf”	” Hold out your hand Frodo, it’s quite cool. < drops the Ring on Frodo’s hand > What can you see? Can you see anything?”
+22	”Frodo”	” Nothing. There's nothing... wait. There are markings. It's some form of elvish. I can’t read it.”
+22	”Gandalf”	” There are few who can. The language is that of Mordor, which I will not utter here.”
+22	”Frodo”	” Mordor?”
+22	”Gandalf”	"” In the common tongue it says, ""One Ring to rule them all, One Ring to find them. One Ring to bring them all and in the darkness bind them.""”"
+23	”Gandalf”	” This is the One Ring. Forged by the Dark Lord Sauron in the fires of Mount Doom. Taken by Isildur from the hand of Sauron himself.”
+23	”Frodo”	” Bilbo found it. In Gollum's cave.”
+23	”Gandalf”	” Yes. For sixty years the Ring lay quiet in Bilbo's keeping, prolonging his life, delaying old age. But no longer Frodo. Evil is stirring in Mordor. The Ring has awoken. It's heard its master's call.”
+23	”Frodo”	” But he was destroyed. Sauron was destroyed.”
+23	”Ring”	” < whispers > Isildur…”
+23	”Gandalf”	###############################################################################################################################################################################################################################################################
+24	”Frodo”	” Alright, we put it away. We keep it hidden. We never speak of it again. No one knows it's here, do they? Do they Gandalf?”
+25	”Gandalf”	” There is one other who knew that Bilbo had the Ring. I looked everywhere for the creature Gollum. But the enemy found him first. I don’t know how long they tortured him. Amidst the endless screams and inane babble, they discerned two words”
+25	”Gollum”	” Shire!!! Baggins!!!”
+26	”Frodo”	” Shire. Baggins. But that would lead them here!”
+27	”Hobbit”	” Who goes there?”
+28	”Frodo”	” Take it Gandalf! Take it!”
+28	”Gandalf”	” No Frodo no.”
+28	”Frodo”	” You must take it!”
+28	”Gandalf”	” You cannot offer me this Ring!”
+28	”Frodo”	” I'm giving it to you!”
+28	”Gandalf”	” Don't tempt me Frodo! I dare not take it. Not even to keep it safe. Understand Frodo, I would use this Ring from the desire to do good. But through me, it would wield a power to great and terrible to imagine.”
+28	”Frodo”	” But it cannot stay in the Shire!”
+28	”Gandalf”	” No! No it can't.”
+28	”Frodo”	” What must I do?”
+29	”Gandalf”	” You must leave and leave quickly.”
+29	”Frodo”	” Where? Where do I go?”
+29	”Gandalf”	” Get out of the Shire. Make for the village Bree.”
+29	”Frodo”	” Bree. What about you?”
+29	”Gandalf”	” I'll be waiting for you, at the Inn of the Prancing Pony.”
+29	”Frodo”	” And the Ring will be safe there?”
+29	”Gandalf”	” I don't know Frodo. I don't have any answers. I must see the head of my order. He is both wise and powerful. Trust me Frodo, he’ll know what to do. ”
+30	”Gandalf”	”You’ll have to leave the name of Baggins behind you”
+30	”Frodo”	” I can cut across country easily enough.”
+30	”Gandalf”	” My dear Frodo. Hobbits really are amazing creatures! You can learn all that there is to know about their ways in a month, and yet after a hundred years, they can still surprise you. < hears rustling of the leaves > Get down!”
+30	”Sam”	” Oooff!!”
+30	”Gandalf”	” Confound it all Samwise Gamgee! Have you been eavesdropping?!”
+30	”Sam”	” I have been droppin’ no eves sir, honest. I was just cutting the grass under the window there, if you follow me.”
+30	”Gandalf”	” A little late for trimming the verge don’t you think?”
+30	”Sam”	” I heard raised voices.”
+30	”Gandalf”	” What did you hear?! Speak!!!!”
+30	”Sam”	” N-n-n-nothing important. That is I heard a good deal about a Ring and a Dark Lord and something about the end of the world but… Please, Mister Gandalf sir, don’t hurt me. Don’t turn me into anythin’ --unnatural.”
+30	”Gandalf”	” No, perhaps not. I have thought of a better use for you…”
+31	”Gandalf”	” Come along Samwise, keep up! ”
+32	”Gandalf”	”Be careful both of you. The enemy has many spies in his service”
+34	”Sam”	” This is it.”
+34	”Frodo”	” < turns > This is what?”
+34	”Sam”	” I take one more step, it’ll be the farthest away from home I’ve ever been.”
+34	”Frodo”	” < reassuringly > Come on Sam. Remember what Bilbo used to say”
+36	”Saruman”	” Smoke rises from the mountain of Doom. The hour grows late and Gandalf the Grey rides to Isengard seeking my counsel. For that is why you have come, is it not...my old friend?”
+36	”Gandalf”	” Saruman. < bows >”
+37	”Saruman”	” You are sure of this?”
+37	”Gandalf”	” Beyond any doubt.”
+37	”Saruman”	” The Ring of Power has been found.”
+37	”Gandalf”	” All these long years it was in the Shire, under my very nose.”
+37	”Saruman”	” Yet you did not have the wit to see it. Your love of the halfling’s leaf has clearly slowed your mind.”
+37	”Gandalf”	” But we still have time. Time enough to counter Sauron if we act quickly.”
+37	”Saruman”	” Time?! What time do you think we have?”
+38	”Saruman”	###############################################################################################################################################################################################################################################################
+38	”Gandalf”	” The Eye of Sauron.”
+38	”Saruman”	” He is gathering all evil to him. Very soon he will summon an army great enough to launch an assault upon Middle Earth.”
+38	”Gandalf”	” You know this? How?”
+38	”Saruman”	” I have seen it.”
+38	”Gandalf”	” A Palantir is a dangerous tool, Saruman.”
+38	”Saruman”	” Why? Why should we fear to use it?”
+38	”Gandalf”	” They are not all accounted for, the lost Seeing Stones. We do not know who else may be watching!”
+38	”Saruman”	” The hour is later than you think. Sauron's forces are already moving. The Nine have left Minas Morgul.”
+38	”Gandalf”	” < alarmed > The Nine!”
+38	”Saruman”	” They crossed the River Isen on Midsummer's Eve, disguised as riders in black.”
+38	”Gandalf”	” They've reached the Shire?!”
+38	”Saruman”	” They will find the Ring… and kill the one who carries it.”
+38	”Gandalf”	” Frodo!”
+38	”Saruman”	” You did not seriously think that a hobbit could contend with the will of Sauron? There are none who can. Against the power of Mordor there can be no victory. We must join with him, Gandalf. We must join with Sauron. It would be wise, my friend.”
+38	”Gandalf”	"” Tell me, ""friend"", when did Saruman the wise abandon reason for madness?!”"
+38	”Saruman”	” I gave you the chance of aiding me willingly. But you...have elected...the way of pain!”
+39	”Sam”	” < starts to panic > Mister Frodo? Frodo! Frodo!”
+39	”Sam”	” < sigh > I thought I’d lost you.”
+39	”Frodo”	” What are you talking about?”
+39	”Sam”	” It's just something Gandalf said.”
+39	”Frodo”	” What did he say?”
+39	”Sam”	"” ""Don’t you lose him Samwise Gamgee!"" And I don't mean to.”"
+39	”Frodo”	” < amused > Sam, we're still in the Shire. What could possibly happen?”
+39	”Pippin”	” Frodo? Merry! It's Frodo Baggins.”
+39	”Merry”	” Hello Frodo!”
+39	”Sam”	” Get off him! < hauls Pippin off Frodo > Frodo? Are you all right?”
+39	”Pippin”	” What's the meaning of this?”
+39	”Merry”	” Hold this. < hands vegetables to Sam >”
+39	”Sam”	” You've been into Farmer Maggot's crop!”
+39	”Farmer Maggot”	” < brandishing a scythe > Wait till I get this through you!…Stay out of my fields! You ruffians I’ll catch up with you!”
+39	”Merry”	” ‘Dunno why he is so upset. It’s only a couple of carrots!”
+39	”Pippin”	” And some cabbages. And those few bags of potatoes that we lifted last week and, and the mushrooms the week before!”
+39	”Merry”	” Yes Pippin! My point is, he is clearly overreactin’. Run!”
+40	”Pippin”	” Ooh! That was close”
+40	”Merry”	” Ow! I think I've broken something. < pulls out a broken carrot >”
+40	”Sam”	” Trust a Brandybuck and a Took!”
+40	”Merry”	” What?! That was just a detour, a shortcut.”
+40	”Sam”	” A shortcut to what?”
+40	”Pippin”	” Mushrooms!!!”
+40	”Pippin”	” That’s mine!”
+40	”Hobbits”	” Mmm…”
+40	”Merry”	” Here is a nice one Sam.”
+40	”Frodo”	” I think we should get off the road.”
+40	”Frodo”	” Get off the road! Quick!”
+40	”Sam”	” Shhh! < to Merry and Pippin > Stop it! Be quiet!”
+40	”Merry”	” What was that?”
+41	”Pippin”	” Anything?”
+41	”Frodo”	” Nothing.”
+41	”Pippin”	” What is going on?”
+41	”Merry”	” That Black Rider was looking for something… or someone. Frodo?”
+41	”Sam”	” Get down!”
+41	”Frodo”	” I have to leave the Shire. Sam and I must get to Bree.”
+41	”Merry”	” Right. Buckleberry Ferry. Follow me.”
+41	”Pippin”	” Run! This way, follow me! Run!”
+42	”Merry”	” Get the rope Sam!”
+42	”Sam”	” Frodo!”
+42	”Hobbits”	” Run Frodo!”
+42	”Frodo”	” Go!”
+42	”Hobbits”	” Hurry!”
+42	”Sam”	” Frodo!”
+42	”Hobbits”	” Jump Frodo! Go on faster! Jump!”
+42	”Frodo”	” How far to the nearest crossing?”
+42	”Merry”	” Brandywine Bridge”
+43	”Frodo”	” Come on.”
+43	”Gatekeeper”	” What do you want?”
+43	”Frodo”	” We’re heading for the Prancing Pony.”
+43	”Gatekeeper”	” Hobbits! Four hobbits! What business brings you to Bree?”
+43	”Frodo”	” We wish to stay at the inn. Our business is our own.”
+43	”Gatekeeper”	” Alright young sir, I meant no offence. ‘Tis my job to ask question after nightfall. There’s talk of strange folk abroad. Can’t be too careful.”
+43	”Men of Bree”	” Move! Watch where you're going!”
+45	”Frodo”	” Excuse me?”
+45	”Butterbur”	” Good evening little masters! If you’re seeking accommodation we’ve got some nice, cozy, hobbit-sized rooms available. Mr. uh--”
+45	”Frodo”	” --Underhill, my name’s Underhill.”
+45	”Butterbur”	” Underhill. Hmm.”
+45	”Frodo”	” We’re friends of Gandalf the Grey. Can you tell him we’ve arrived?”
+45	”Butterbur”	” Gandalf? Gandalf? Ohhh yes! I remember, elderly chap, big gray beard, pointy hat. Not seen him for 6 months.”
+45	”Sam”	” What do we do now?”
+46	”Frodo”	” Sam. He’ll be here. He’ll come.”
+46	”Man”	” < to Merry coming from the bar > Get, get out of my way.”
+46	”Pippin”	” What’s that?”
+46	”Merry”	” This my friend, is a pint.”
+46	”Pippin”	” It comes in pints? I’m getting one. < rushes to the bar >”
+46	”Sam”	” You had a whole half already!”
+46	”Sam”	” That fellow’s done nothin’ but starin’ at us since we arrived.”
+46	”Frodo”	” < takes Barliman aside > Excuse me, that man in the corner, who is he?”
+46	”Butterbur”	” He’s one of them rangers. Dangerous folk they are-- all wandering the wilds. What his right name is I’ve never heard but around here, he’s known as Strider.”
+46	”Frodo”	” Strider...”
+46	”The Ring”	” Baggins. Baggins. Baggins. Baggins! Baggins!…”
+46	”Pippin”	” Baggins!”
+46	”Pippin”	"” < at the bar > Sure I know a Baggins. He’s over there, Frodo Baggins. He's my second cousin once removed on his mother's side < listeners laugh, ""It works for him!"" yells one > and my third cousin twice removed on his father's side, if you follow me.”"
+46	”Frodo”	” Pippin! < grabs him >”
+46	”Pippin”	” Steady on!”
+46	”Voice of Sauron”	” You cannot hide! I see you! There is no life in the void, only death!”
+46	”Frodo”	” Ah! < Strider grabs him from behind >”
+49	”Strider”	"” You draw far too much attention to yourself Mr. ""Underhill""! < tosses him up the stairs >”"
+50	”Frodo”	” What do you want?”
+50	”Strider”	” A little more caution from you. That is no trinket you carry.”
+50	”Frodo”	” I carry nothing.”
+50	”Strider”	” Indeed.”
+50	”Strider”	” I can avoid being seen if I wish. But to disappear entirely, that is a rare gift.”
+50	”Frodo”	” Who are you?”
+50	”Strider”	” Are you frightened?”
+50	”Frodo”	” Yes.”
+50	”Strider”	” Not nearly frightened enough. I know what hunts you.”
+50	”Sam”	” *Stand off! / *Let him go! Or I’ll have you Longshanks! [*note to reader”
+50	”Strider”	” You have a stout heart little hobbit, but that will not save you. You can no longer wait for the wizard Frodo. They’re coming.”
+57	”Frodo”	” What are they?”
+57	”Strider”	###############################################################################################################################################################################################################################################################
+58	”Frodo”	” Where are you taking us?”
+58	”Strider”	” Into the wild.”
+58	”Merry”	” < to Frodo > How do we know this Strider is a friend of Gandalf’s?”
+58	”Frodo”	” We have no choice but to trust him.”
+58	”Sam”	” But where is he leading us?”
+58	”Strider”	” To Rivendell Master Gamgee, The House of Elrond.”
+58	”Sam”	” Did you hear that? Rivendell! We’re going to see the elves!”
+59	”Strider”	” Gentlemen, we do not stop till nightfall.”
+59	”Pippin”	” What about breakfast?”
+59	”Strider”	” We’ve already had it.”
+59	”Pippin”	” We've had one yes. What about second breakfast?”
+59	”Merry”	” Don't think he knows about second breakfast Pip.”
+59	”Pippin”	” < alarmed > What about elevenses? Luncheon? Afternoon tea? Dinner? Supper? He knows about them doesn’t he?”
+59	”Merry”	” I wouldn't count on it.”
+59	”Merry”	” < impatiently > Pippin!”
+60	”Saruman”	” < telepathically > The power of Isengard is at your command, Sauron, Lord of the Earth.”
+60	”Voice of Sauron”	” Build me an army worthy of Mordor!”
+61	”Orc”	” What orders from Mordor my Lord? What does the Eye command?”
+61	”Saruman”	” We have work to do!”
+62	”Orcs”	” The trees are strong, my Lord. Their roots go deep.”
+62	”Saruman”	” Rip them all down.”
+63	”Strider”	” This was the great watchtower of Amon Sul. We shall rest here tonight.”
+64	”Strider”	” These are for you. Keep them close. I’m going to have a look around. Stay here.”
+65	”Pippin”	” Can I have some meat?”
+65	”Merry”	” Ok. Want some tomatoes Sam?”
+65	”Merry”	” Great tomatoes”
+65	”Frodo”	” What are you doing?!”
+65	”Merry”	” Tomatoes, sausages, nice crispy bacon.”
+65	”Sam”	” We saved some for you Mr. Frodo.”
+65	”Frodo”	” Put it out you fools! Put it out!”
+65	”Pippin”	” Oh that’s nice! Ash on my tomatoes!”
+65	”All”	” Uh?!”
+65	”Frodo”	” Go!”
+66	”Sam”	” < brandishing his sword > Back you devils!”
+66	”Frodo”	” Aaaahhhh!”
+66	”Sam”	” Frodo! < rushes to his side >”
+66	”Frodo”	” Oh Sam!”
+66	”Sam”	” Strider! Help him Strider.”
+66	”Strider”	” He’s been stabbed by a Morgul blade. < blade dissolves in the wind > This is beyond my skill to heal. He needs elvish medicine.”
+67	”Strider”	” Hurry!”
+67	”Sam”	” We are six days from Rivendell. He’ll never make it!”
+67	”Frodo”	” < whispering > Gandalf…”
+67	”Strider”	” Hold on Frodo.”
+67	”Frodo”	” < cries out > …Gandalf!!!!”
+67	”Gandalf”	” < whispering > Gwaihir. Go, Gwaihir.”
+67	”Sam”	” Mr. Frodo? < to Strider > He’s going cold!”
+70	”Pippin”	” Is he going to die?”
+70	”Strider”	” He’s passing into the shadow world. He will soon become a wraith like them.”
+70	”Merry”	” They’re close.”
+70	”Strider”	” Sam, do you know Athelas plant?”
+70	”Sam”	” Athelas?”
+70	”Strider”	” Kingsfoil.”
+70	”Sam”	” Kingsfoil- uh, that's a weed.”
+70	”Strider”	” It may help to slow the poison. Hurry!”
+71	”Arwen”	” What’s this? A ranger caught off his guard?”
+72	”Arwen”	” Frodo.... Im Arwen. Telin le thaed (I am Arwen. I have come to help you.)”
+72	”Arwen”	” Lasto beth nin. Tolo dan na galad (Hear my voice. Come back to the light)”
+72	”Merry”	” < in awe > Who is she?”
+72	”Arwen”	” < kneels > Frodo!”
+72	”Sam”	” She's an elf.”
+72	”Arwen”	” He's fading!”
+72	”Arwen”	” He's not going to last. We must get him to my father. I’ve been looking for you for 2 days.”
+72	”Merry”	” Where are you taking him?”
+72	”Arwen”	” There are 5 wraiths behind you. Where the other 4 are, I do not know.”
+72	”Strider/Aragorn”	” Dartho guin perian. Rych le ad tolthathon. (Stay with the Hobbits. I will send horses again for you)”
+72	”Arwen”	” Hon mabathon. Rochon ellint im. (I’m the faster rider. I’ll take him.)”
+72	”Strider/Aragorn”	” Andelu i ven. (The road is too dangerous.)”
+72	”Pippin”	” What are they saying?”
+72	”Arwen”	” Frodo fir. Ae athradon i hir, tur gwaith nin beriatha hon. (If I can get across the river, the power of my people will protect him.)”
+72	”Arwen”	” < reassuringly > I do not fear them.”
+72	”Strider/Aragorn”	” Beyest lin.”
+72	”Strider/Aragorn”	” Arwen, ride hard. Don’t look back!”
+76	”Arwen”	” Noro lim, Asfaloth, noro lim! (Ride fast Asfaloth, ride fast!)”
+76	”Sam”	” < to Strider > What are you doing?! Those wraiths are still out there!”
+76	”Arwen”	” Noro lim Asfaloth!!! (Ride faster Asfaloth!)”
+77	”Nazgul”	” Give up the half-fling she-elf!”
+77	”Arwen”	” < draws her sword > If you want him, come and claim him!”
+77	”Arwen”	” Nin o Chithaeglir, lasto beth daer, Rimmo nin Bruinen dan in Ulair!”
+77	”Arwen”	” No! Frodo...No! Frodo, don’t give in! Not now!”
+78	”Arwen”	” < voice over > What grace is given me, let it pass to him, let him be spared, save him.”
+78	”Elrond”	” Lasto beth nin. Tolo dan nan galad. (Hear my voice, come back to the light)”
+78	”Frodo”	” < half-asleep > Where am I?”
+78	”Gandalf”	” You are in the house of Elrond. And it is 10 o’clock in the morning, on October the 24th if you want to know.”
+79	”Frodo”	” Gandalf!”
+79	”Gandalf”	” Yes...I’m here. And you're lucky to be here too. A few more hours and you would have been beyond our aid. But you have some strength in you, my dear hobbit!”
+79	”Frodo”	” What happened Gandalf? Why didn't you meet us?”
+79	”Gandalf”	” Oh I'm sorry Frodo... I was delayed.”
+80	”Saruman”	” Friendship with Saruman is not lightly thrown aside.”
+80	”Saruman”	” One ill turn deserves another. It is over! Embrace the power of the Ring…or embrace your own destruction!”
+80	”Gandalf”	” < slowly raises himself > There is only one Lord of the Ring! Only one can bend it to his will. And he does not share power!”
+80	”Saruman”	” So you have chosen - death.”
+82	”Frodo”	” Gandalf? What is it?”
+82	”Gandalf”	” Nothing Frodo.”
+82	”Sam”	” Frodo! Frodo!”
+82	”Frodo”	” Sam!”
+82	”Sam”	” Bless you, you're awake!”
+82	”Gandalf”	” Sam has hardly left your side.”
+82	”Sam”	” We were that worried about you, weren't we Mr. Gandalf?”
+82	”Gandalf”	” By the skills of Lord Elrond, you're beginning to mend.”
+82	”Elrond”	” Welcome to Rivendell, Frodo Baggins.”
+84	”Frodo”	” Bilbo!”
+85	”Bilbo”	” Hello Frodo my lad!”
+85	”Frodo”	” Bilbo! < hug >”
+85	”Bilbo”	” Oh!”
+85	”Frodo”	"” ""There and Back Again”"
+85	”Bilbo”	” I meant to go back...wander the paths of Mirkwood... visit Laketown...see the Lonely Mountain again. But age it seems have finally caught up with me. < gives Frodo a playful smirk >”
+85	”Frodo”	” I miss the Shire. I spent all my childhood, pretending I was off somewhere else…off with you on one of your adventures! < realizes sadly > My own adventure turned out to be quite different.”
+85	”Frodo”	” I’m not like you Bilbo.”
+85	”Bilbo”	” My dear boy.”
+86	”Sam”	” < to himself > Now what have I forgotten?”
+86	”Frodo”	” Packed already?”
+86	”Sam”	” No harm in being prepared.”
+86	”Frodo”	” I thought you wanted to see the elves Sam.”
+86	”Sam”	” I do!”
+86	”Frodo”	” More than anything.”
+86	”Sam”	” I did! Its just...we did what Gandalf wanted didn't we? We got the Ring this far to Rivendell and then I thought, seen’ as how you’re on the mend, we'd be off soon. Off home.”
+86	”Frodo”	” You're right Sam. We did what we set out to do. < shows the Ring on his palm > The Ring will be safe in Rivendell.”
+86	”Frodo”	” I am ready to go home.”
+87	”Elrond”	” His strength returns.”
+87	”Gandalf”	” That wound will never fully heal. He will carry it the rest of his life.”
+87	”Elrond”	” And yet to have come so far, still bearing the Ring, the hobbit has shown extraordinary resilience to it's evil.”
+87	”Gandalf”	” It is a burden he should never have had to bear. We can ask no more of Frodo.”
+87	”Elrond”	” Gandalf, the enemy is moving. Sauron's forces are amassing in the east-- his eye is fixed on Rivendell. And Saruman you tell me has betrayed us. Our list of allies grows thin.”
+87	”Gandalf”	” His treachery runs deeper than you know. By foul craft Saruman has crossed orcs with goblin-men, he's breeding an army in the caverns of Isengard. An army that can move in sunlight and cover great distance at speed. Saruman is coming for the Ring.”
+87	”Elrond”	” This evil cannot be concealed by the power of the Elves. We do not have the strength to fight both Mordor and Isengard!”
+87	”Elrond”	” Gandalf, the Ring cannot stay here.”
+87	”Elrond”	###############################################################################################################################################################################################################################################################
+87	”Gandalf”	” It is in Men that we must place our hope.”
+87	”Elrond”	” Men? Men are weak. The race of men is failing. The blood of Numenor is all but spent. It's pride and dignity forgotten. It is because of men the Ring survives. I was there Gandalf. I was there three thousand years ago…”
+87	”Elrond”	” Isildur took the Ring. I was there the day the strength of men failed.”
+88	”Elrond”	” Isildur hurry. Follow me.”
+88	”Elrond”	” < voice over > I led Isildur into the heart of Mount Doom, where the Ring was forged, the one place it could be destroyed.”
+88	”Elrond”	” Cast it into the fire!”
+88	”Elrond”	” Destroy it!”
+88	”Isildur”	” No.”
+88	”Elrond”	” Isildur!!!”
+89	”Elrond”	” < voice over > It should’ve ended that day, but evil was allowed to endure.”
+89	”Elrond”	” Isildur kept the Ring. The line of kings is broken. There is no strength left in the world of men. They’re scattered, divided, leaderless.”
+89	”Gandalf”	” There is one who could unite them, one who could reclaim the throne of Gondor.”
+89	”Elrond”	” He turned from that path long time ago. He has chosen exile.”
+90	”Boromir”	” The shards of Narsil! The blade that cut the ring from Sauron's hand!”
+90	”Boromir”	” < in amazement > It's still sharp!”
+90	”Boromir”	” < in disdain > No more than a broken heirloom!”
+90	”Arwen”	” Why do you fear the past? You are Isildur's heir, not Isildur himself. You are not bound to his fate.”
+90	”Aragorn”	” The same blood flows in my veins. < turns to Arwen > Same weakness.”
+90	”Arwen”	” Your time will come. You will face the same evil, and you will defeat it. A si i-Dhúath ú-orthor. Ú or le a ú or nin. (The Shadow does not hold sway yet, not over you and not over me.)”
+92	”Arwen”	” Renech i lu i erui govannen? (Do you remember when we first met?)”
+92	”Aragorn”	” Nauthannem i ned ol reniannen. (I thought I had strayed into a dream.)”
+92	”Arwen”	” < tenderly touches Aragorn’s cheek > Gwenwin in enninath...U-arnech in naeth i si celich. (Long years have passed…You did not have the cares you carry now.)”
+92	”Arwen”	” Renech i beth i pennen? (Do you remember what I told you?)”
+92	”Aragorn”	” < his fingers run across the Evenstar pendant > You said you'd bind yourself to me. Forsaking the immortal life of your people.”
+92	”Arwen”	” And to that I hold. I would rather share one lifetime with you than face all the ages of this world alone.”
+92	”Arwen”	” I choose a mortal life.”
+92	”Aragorn”	” You cannot give me this!”
+92	”Arwen”	” It is mine to give to whom I will...like my heart.”
+93	”Elrond”	###############################################################################################################################################################################################################################################################
+93	”Boromir”	” So it is true...”
+93	”Man of Laketown”	” The Doom of Men”
+93	”Boromir”	###############################################################################################################################################################################################################################################################
+93	”Aragorn”	” You cannot wield it! None of us can. The One Ring answers to Sauron alone. It has no other master.”
+93	”Boromir”	” And what would a ranger know of this matter?”
+93	”Legolas”	” This is no mere ranger. He is Aragorn, son of Arathorn. You owe him your allegiance.”
+93	”Boromir”	” Aragorn? This... is Isildur's heir?”
+93	”Legolas”	” And heir to the throne of Gondor.”
+93	”Aragorn”	” Havo dad Legolas (Sit down Legolas)”
+93	”Boromir”	” Gondor has no king. Gondor needs no king. < returns to his seat >”
+93	”Gandalf”	” Aragorn is right. We cannot use it.”
+93	”Elrond”	” You have only one choice. The Ring must be destroyed.”
+93	”Gimli”	” What are we waiting for?”
+93	”Gimli”	” ARGH!!!!”
+93	”Elrond”	” The Ring cannot be destroyed, Gimli, son of Gloin by any craft that we here possess. The Ring was made in the fires of Mount Doom. Only there can it be unmade. It must be taken deep into Mordor and cast back into the fiery chasm from whence it came.”
+93	”Elrond”	” One of you must do this.”
+93	”Boromir”	###############################################################################################################################################################################################################################################################
+93	”Legolas”	” < stands indignantly > Have you heard nothing Lord Elrond has said? The Ring must be destroyed!”
+93	”Gimli”	” < leaps to his feet > And I suppose you think you're the one to do it?!”
+93	”Boromir”	” < rises > And if we fail, what then?! What happens when Sauron takes back what is his?!”
+93	”Gimli”	” I will be dead before I see the Ring in the hands of an elf!”
+93	”Gimli”	” Never trust an elf!”
+93	”Gandalf”	” Do you not understand that while we bicker amongst ourselves, Sauron's power grows?! None can escape it!”
+93	”Ring”	” Ash Nazg Durbatuluk! Ash Nazg Gimbatul! Ash Nazg Gimbatul! Ash Nazg Gimbatul!”
+93	”Frodo”	” I will take it! I will take it!”
+93	”Frodo”	” I will take the Ring to Mordor. Though-- I do not know the way.”
+93	”Gandalf”	” < walks towards Frodo > I will help you bear this burden, Frodo Baggins, so long as it is yours to bear. < places his hands reassuringly on Frodo’s shoulders >”
+93	”Aragorn”	” < rises > If by my life or death, I can protect you, I will.”
+93	”Aragorn”	” You have my sword.”
+93	”Legolas”	” And you have my bow. < walks to join them >”
+93	”Gimli”	” And my axe! < looks grimly at Legolas as he joins the group >”
+93	”Boromir”	” < walks over to them > You carry the fates of us all little one. If this is indeed the will of the council, then Gondor will see it done.”
+93	”Sam”	” Heh! < jumps from behind the bushes and joins them > Mr. Frodo is not goin’ anywhere without me!”
+93	”Elrond”	” < amused > No indeed, it is hardly possible to separate you even when he is summoned to a secret council and you are not.”
+93	”Pippin and Merry”	” < emerges from behind the pillars to join them > Wait! We are coming too!”
+93	”Merry”	” You'd have to send us home tied up in a sack to stop us!”
+93	”Pippin”	” Anyway you need people of intelligence on this sort of mission, quest... thing.”
+93	”Merry”	” Well that rules you out Pip.”
+93	”Elrond”	” Nine companions... So be it! You shall be the Fellowship of the Ring!”
+93	”Pippin”	” Great! Where are we going?”
+94	”Bilbo”	” My old sword, Sting! Here! Take it, take it!”
+94	”Frodo”	” It’s so light!”
+94	”Bilbo”	” Yes...yea--made by the elves you know. The blade glows blue when orcs are close. And its times like that my lad, when you'll have to be extra careful!”
+94	”Bilbo”	” Here’s a pretty thing --Mithril! As light as a feather! And as hard as dragon scales! Let me see you put it on. Go on.”
+94	”Bilbo”	” Oh...M-my old Ring! Oh well… I sh-sh-should very much like, to hold it again, one last time.”
+94	”Bilbo”	” I’m sorry I brought this upon you my boy...I’m sorry that you must carry this burden. I’m sorry for everything!”
+96	”Gandalf”	” < voice over > We must hold this course west of the Misty Mountains for 40 days. If our luck holds the Gap of Rohan will still be open to us. From there our road turns east to Mordor.”
+97	”Boromir”	” Two, Three, Four, Five. Good, very good.”
+97	”Aragorn”	” Move your feet.”
+97	”Merry”	” That’s good, Pippin.”
+97	”Pippin”	” Thanks.”
+97	”Boromir”	” Faster”
+97	”Gimli”	” ‘Anyone was to ask for my opinion, which I note they’re not, I’d say we were taking the long way round. Gandalf, we could pass through the Mines of Moria. My cousin Balin would give us a royal welcome.”
+97	”Gandalf”	” No Gimli, I would not take the roads through Moria unless I had no other choice.”
+97	”Boromir”	” Come on. Good.”
+97	”Pippin”	” Aaaah!”
+97	”Boromir”	” Sorry!”
+97	”Boromir”	” Ahh!”
+97	”Merry”	” Get Him!”
+97	”Pippin”	” For the Shire!”
+97	”Pippin”	” Hold him! Hold him Merry!”
+97	”Merry”	” He got my arm! He got my arm!”
+97	”Sam”	” What is that?”
+97	”Gimli”	” Nothing, it’s just a whiff of cloud.”
+97	”Boromir”	” It’s moving fast…against the wind.”
+97	”Legolas”	” Crebain from Dunland!”
+97	”Aragorn”	” Hide!”
+97	”Boromir”	” Merry! Frodo!”
+97	”Aragorn”	” Come on, come on! Take cover!”
+97	”Gandalf”	” Spies of Saruman! The passage south is being watched. We must take the Pass of Caradhras.”
+97	”Frodo”	” Ungh!”
+97	”Aragorn”	” Frodo! < helps him to his feet >”
+98	”Aragorn”	” Boromir.”
+98	”Boromir”	” It is a strange fate we should suffer so much fear and doubt over so small a thing… such a little thing.”
+98	”Aragorn”	” Boromir! Give the Ring to Frodo.”
+98	”Boromir”	” < hands it to Frodo > As you wish. I care not.”
+99	”Saruman”	” So, Gandalf, you try to lead them over Caradhras. And if that fails, where then will you go? If the mountain defeats you will you risk a more dangerous road?”
+99	”Saruman”	"” Cuiva nwalca Carnirasse; nai yarvaxea rasselya! (Wake up cruel Redhorn! May your horn be bloodstained!)”"
+100	”Legolas”	” There is a fell voice on the air.”
+100	”Gandalf”	” Its Saruman!”
+100	”Aragorn”	” He’s trying to bring down the mountain! Gandalf, we must turn back!”
+100	”Gandalf”	” No!”
+100	”Gandalf”	” Losto Caradhras, sedho, hodo, nuitho i 'ruith! (Sleep Caradhras, be still, lie still, hold your wrath!)”
+100	”Saruman”	"” Cuiva nwalca Carnirasse; Nai yarvaxea rasselya; taltuva notto-carinnar! (Wake up cruel Redhorn! May your bloodstained horn fall upon enemy heads!)”"
+102	”Boromir”	” We must get off the mountain! Make for the Gap of Rohan and take the west road to my city!”
+102	”Aragorn”	” The Gap of Rohan takes us too close to Isengard!”
+102	”Gimli”	” If we cannot pass over a mountain, let us go under it. Let us go through the mines of Moria.”
+102	”Saruman”	” Moria. You fear to go into those mines. The dwarves delved too greedily and too deep. You know what they awoke in the darkness of Khazad-dum”
+102	”Gandalf”	” < grimly > Let the Ring bearer decide.”
+102	”Gandalf”	” Frodo?”
+102	”Frodo”	” We will go through the mines.”
+102	”Gandalf”	” So be it.”
+103	”Gimli”	” < in awe > The walls of Moria!”
+103	”Frodo”	” < gasp >”
+103	”Gandalf”	” Now, let’s see. Ithildin -- it mirrors only starlight and moonlight.”
+103	”Gandalf”	"” It reads ""The doors of Durin - Lord of Moria. Speak friend and enter.""”"
+103	”Merry”	” What do you suppose that means?”
+103	”Gandalf”	” Oh it’s quite simple. If you are a friend you speak the password and the doors will open.”
+103	”Gandalf”	” Annon Edhellen edro hi ammen! (Gate of the Elves open now for me!)”
+103	”Gandalf”	” Ando Eldarinwa a lasta quettanya, Fenda Casarinwa! (Gate of Elves listen to my word, Threshold of Dwarves!)”
+103	”Aragorn”	” < unhitches Bill’s bridle > The mines are no place for a pony, even one so brave as Bill.”
+103	”Sam”	” < sadly > Buh-bye Bill”
+103	”Aragorn”	” Go on, Bill, go on. Don’t worry Sam, he knows the way home.”
+103	”Aragorn”	” Do not disturb the water.”
+103	”Gandalf”	” < exasperated > Oh, it’s useless!”
+103	”Frodo”	"” It’s a riddle. Speak ""friend"" and enter. What’s the Elvish word for friend?”"
+103	”Gandalf”	” Mellon”
+104	”Gimli”	” Soon master elf you will enjoy the fabled hospitality of the dwarves. Roaring fires, malt beer, ripe meat off the bone. This, my friend, is the home of my cousin Balin. And they call it a mine. A mine!”
+104	”Boromir”	” This is no mine, it’s a tomb!”
+104	”Gimli”	” Oh! No! Noooo!!!”
+104	”Legolas”	” Goblins!”
+104	”Boromir”	” We make for the Gap of Rohan. We should never have come here.”
+104	”Boromir”	” Now get out of here, get out!”
+105	”Sam, Merry, and Pippin”	” Frodo!”
+105	”Sam”	” Strider! < hacks at tentacle > Get off him!”
+105	”Frodo”	” aah!”
+105	”Merry”	” Aragorn!”
+105	”Gandalf”	” Into the Mines!”
+105	”Boromir”	” Legolas! Aim for his eye! Come on!”
+106	”Gandalf”	” We now have but one choice. We must face the long dark of Moria. Be on your guard. There are older and fouler things than orcs in the deep places of the world.”
+107	”Gandalf”	” Quietly now. It’s a four-day journey to the other side. Let us hope that our presence may go unnoticed.”
+107	”Merry”	” Pippin!”
+109	”Gandalf”	” I have no memory of this place”
+109	”Pippin”	” Are we lost?”
+109	”Merry”	” No.”
+109	”Pippin”	” I think we are.”
+109	”Sam”	” Shhh! Gandalf’s thinking.”
+109	”Pippin”	” Merry?”
+109	”Merry”	” What?”
+109	”Pippin”	” I’m hungry.”
+109	”Frodo”	” There’s something down there.”
+109	”Gandalf”	” It’s Gollum.”
+109	”Frodo”	” Gollum?”
+109	”Gandalf”	” He’s been following us for three days.”
+109	”Frodo”	” He escaped the dungeons of Barad-Dur!”
+109	”Gandalf”	” Escaped? Or set loose?”
+109	”Gandalf”	” He hates and loves the Ring, as he hates and loves himself. He will never be rid of his need for it.”
+109	”Frodo”	” It’s a pity Bilbo didn’t kill him when he had the chance!”
+109	”Gandalf”	” Pity? It was pity that stayed Bilbo’s hand. Many that live deserve death, and some that die deserve life. Can you give it to them, Frodo?”
+109	”Gandalf”	” Do not be too eager to deal out death in judgement. Even the very wise can not see all ends. My heart tells me that Gollum has some part to play yet, for good or ill, before this is over. The pity of Bilbo may rule the fate of many.”
+109	”Frodo”	” I wish the Ring had never come to me. I wish none of this had happened.”
+109	”Gandalf”	###############################################################################################################################################################################################################################################################
+109	”Gandalf”	” < looks towards one of the doorways > Ah! It’s that way.”
+109	”Merry”	” He’s remembered!”
+109	”Gandalf”	” No, but the air doesn’t smell so foul down here. If in doubt, Meriadoc, always follow your nose.”
+110	”Gandalf”	” Let me risk a little more light.”
+110	”Gandalf”	” Behold the great realm and dwarf city of Dwarrowdelf.”
+110	”Sam”	” Now there’s an eye opener and no mistake.”
+110	”Gimli”	” Haugh!”
+110	”Gandalf”	” Gimli!”
+111	”Gimli”	” No! No! < sob > No! < sob >”
+111	”Gandalf”	"” < translates the runes on the tomb > ""Here lies Balin, son of Fundin, Lord of Moria."" He is dead then. Its as I feared.”"
+111	”Gimli”	” < wails >”
+111	”Legolas”	” < to Aragorn > We must move on, we cannot linger!”
+111	”Gandalf”	###############################################################################################################################################################################################################################################################
+112	”Gandalf”	” < slams the book shut > Fool of a Took! Throw yourself in next time and rid us of your stupidity!”
+112	”Sam”	” Frodo! < Sting glows blue >”
+112	”Legolas”	” Orcs!”
+112	”Aragorn”	” < to the Hobbits > Get back! Stay close to Gandalf!”
+112	”Boromir”	” They have a cave troll.”
+112	”Gimli”	” Aarrgghhh!!! Let them come! There is one dwarf yet in Moria that still draws breath!”
+112	”Sam”	” < hits orcs with skillet > I think I’m getting the hang of this.”
+112	”Frodo”	” Aragorn? Aragorn!”
+112	”Aragorn”	” Frodo! Yaaahh!”
+112	”Frodo”	” < being stabbed > Ungh!”
+112	”Sam”	” Frodo? Frodo!”
+112	”Merry and Pippin”	” Yaahh!”
+112	”Aragorn”	” Oh no!”
+112	”Sam”	” He’s alive!”
+112	”Frodo”	” I’m all right, I’m not hurt.”
+112	”Aragorn”	” You should be dead! That spear would have skewered a wild boar.”
+112	”Gandalf”	” I think there’s more to this hobbit than meets the eye.”
+112	”Gimli”	” Mithril! You are full of surprises Master Baggins.”
+112	”Gandalf”	” To the bridge of Khazad-dum!”
+113	”Boromir”	” What is this new devilry?”
+113	”Gandalf”	” A Balrog-- a demon of the ancient world. This foe is beyond any of you. Run!”
+113	”Aragorn”	” Gandalf.”
+114	”Gandalf”	” Lead them on Aragorn. The bridge is near. < Aragorn resists > Do as I say! Swords are no more use here.”
+114	”Legolas”	” < beckons > Gandalf.”
+114	”Boromir”	” Merry! Pippin! Hoo-aah!”
+114	”Aragorn”	” Sam.”
+114	”Gimli”	” < holds up his hand > Nobody tosses a dwarf.”
+114	”Gimli”	” Not the beard!”
+114	”Aragorn”	” Stay there. Hold on. Hang on! Lean forward!”
+114	”Legolas”	” Come on!”
+115	”Gandalf”	” Over the bridge! Fly!”
+115	”Gandalf”	” You cannot pass!”
+115	”Frodo”	” Gandalf!”
+115	”Gandalf”	” I am the servant of the secret fire, wielder of the flame of Anor. The dark fire will not avail you! Flame of Udun!”
+115	”Gandalf”	” Go back to the shadow!”
+115	”Gandalf”	” YOU…SHALL NOT...PASS!!!”
+115	”Boromir”	” No, Frodo!”
+115	”Frodo”	” Gandaaaaalf!”
+115	”Gandalf”	” Fly you fools!”
+115	”Frodo”	” Noooooooooooooooo!!!!”
+115	”Boromir”	” Aragorn!”
+115	”Frodo”	” Noooooooooooo!!!”
+116	”Aragorn”	” Legolas, get them up.”
+116	”Boromir”	” Give them a moment for pity's sake.”
+116	”Aragorn”	” By nightfall these hills will be swarming with orcs! We must reach the Woods of Lothlorien. Come Boromir, Legolas, Gimli, get them up.”
+116	”Aragorn”	” < he reaches down and lifts Sam up > On your feet Sam. < looks around > Frodo? Frodo!”
+118	”Gimli”	” Stay close young hobbits! They say there’s a great sorceress lives in these woods, an elf-witch of terrible power. All who look upon her, fall under her spell...”
+118	”Galadriel’s Voice”	” < whispering echo > Frodo....”
+118	”Gimli”	” ... and are never seen again.”
+118	”Galadriel’s Voice”	” …Your coming to us… is as the footsteps of doom. You bring great evil here Ring bearer!”
+118	”Sam”	” Mr. Frodo?”
+118	”Gimli”	” Well, here is one dwarf she won't ensnare so easily. I have the eyes of a hawk and the ears of a fox!”
+118	”Gimli”	” Oh...”
+118	”Haldir”	” The dwarf breathes so loud we could have shot him in the dark.”
+118	”Gimli”	” Grrr....”
+118	”Aragorn”	” Haldir o Lórien. Henion aníron, boe ammen i dulu lîn. Boe ammen veriad lîn.”
+118	”Gimli”	” Aragorn, these woods are perilous! We should go back.”
+118	”Haldir”	” You have entered the realm of the Lady of the Wood. You cannot go back. Come, she is waiting.”
+120	”Celeborn”	” Eight that are here yet nine there were set out from Rivendell. Tell me where is Gandalf? For I much desire to speak with him.”
+120	”Galadriel”	” He has fallen into shadow.”
+120	”Galadriel”	” The quest stands upon the edge of a knife. Stray but a little and it will fail to the ruin of all.”
+120	”Galadriel”	” Yet hope remains while the company is true.”
+120	”Galadriel”	” Do not let your hearts be troubled. Go now and rest for you are weary with sorrow and much toil. Tonight you will sleep in peace. < whispers to Frodo in his mind > Welcome Frodo of the Shire. One who has seen the Eye!”
+121	”Legolas”	” < pensive > A lament for Gandalf.”
+121	”Merry”	” What do they say about him?”
+121	”Legolas”	” I have not the heart to tell you. For me the grief is still too near.”
+121	”Aragorn”	” Take some rest. These borders are well protected.”
+121	”Boromir”	” I will find no rest here. I heard her voice inside my head. She spoke of my father and the fall of Gondor. She said to me even now there is hope left. But I cannot see it. It is long since we had any hope.”
+121	”Boromir”	###############################################################################################################################################################################################################################################################
+121	”Aragorn”	” I have seen the White City, long ago.”
+121	”Boromir”	” One day, our paths will lead us there. And the tower guards shall take up the call”
+122	”Galadriel”	” Will you look into the mirror?”
+122	”Frodo”	” What will I see?”
+122	”Galadriel”	” Even the wisest cannot tell. For the mirror shows many things.”
+122	”Galadriel”	” Things that were, things that are and some things… < empties the ewer > that have not yet come to pass.”
+122	”Galadriel”	###############################################################################################################################################################################################################################################################
+122	”Frodo”	” < telepathically > If you ask it of me, I will give you the One Ring.”
+122	”Galadriel”	” You offer it to me freely. I do not deny that my heart has greatly desired this.”
+122	”Galadriel”	” In place OF A DARK LORD, YOU WILL HAVE A QUEEN! NOT DARK BUT BEAUTIFUL AND TERRIBLE AS THE DAWN! TREACHEROUS AS THE SEA! STRONGER THAN THE FOUNDATIONS OF THE EARTH! ALL SHALL LOVE ME AND DISPAIR!”
+122	”Galadriel”	” I pass the test! I will diminish, and go into the West, and remain Galadriel.”
+122	”Frodo”	” I cannot do this alone.”
+122	”Galadriel”	” You are a Ring bearer, Frodo. To bear a Ring of power is to be alone. This task was appointed to you and if you do not find a way, no one will.”
+122	”Frodo”	” Then I know what I must do. It's just… I'm afraid to do it.”
+122	”Galadriel”	” Even the smallest person can change the course of the future.”
+123	”Saruman”	” Do you know how the Orcs first came into being? They were elves once, taken by the dark powers. Tortured and mutilated”
+123	”Lurtz”	” Saruman!”
+124	”Saruman”	” < to the troops > Hunt them down. Do not stop until they are found. You do not know pain. You do not know fear. You will taste man flesh!”
+124	”Saruman”	” < to Lurtz > One of the halflings carries something of great value. Bring them to me alive and unspoiled. Kill the others!”
+126	”Galadriel”	” Farewell, Frodo Baggins. I give you the light of Earendil, our most beloved star.”
+126	”Galadriel”	” Namarie.”
+127	”Galadriel”	” May it be a light for you in dark places, when all other lights go out.”
+130	”Aragorn”	” Frodo, the Argonath! Long have I desired to look upon the kings of old. My kin.”
+131	”Aragorn”	” We cross the lake at nightfall. Hide the boats and continue on foot. We approach Mordor from the north.”
+131	”Gimli”	” Oh, yes?! It's just a simple matter of finding our way through Emyn Muil? An impassable labyrinth of razor sharp rocks! And after that, it gets even better! < Pippin looks up, alarmed > Festering, stinking marshlands far as the eye can see!”
+131	”Aragorn”	” That is our road. I suggest you take some rest and recover your strength master dwarf.”
+131	”Gimli”	” Recover my…?! Phrrrrr...”
+131	”Legolas”	” < quietly to Aragorn > We should leave now.”
+131	”Aragorn”	” No. Orcs patrol the eastern shore. We must wait for cover of darkness.”
+131	”Legolas”	” It is not the eastern shore that worries me. A shadow and a threat has been growing in my mind. Something draws near...I can feel it!”
+131	”Gimli”	” No dwarf need recover strength! < to Pippin > Pay no heed to that, young hobbit.”
+131	”Merry”	” Where's Frodo?”
+132	”Boromir”	” None of us should wander alone, you least of all. So much depends on you. Frodo?”
+132	”Boromir”	"” I know why you seek solitude. You suffer; I see it day by day. You sure you do not suffer needlessly? There are other ways, Frodo, other paths that we might take.”"
+132	”Frodo”	” I know what you would say. And it would seem like wisdom but for the warning in my heart.”
+132	”Boromir”	” Warning? Against what? We're all afraid, Frodo. But to let that fear drive us to destroy what hope we have. Don't you see that is madness?”
+132	”Frodo”	” There is no other way!”
+132	”Boromir”	” I ask only for the strength to defend my people! < throws the gathered wood to the ground > If you would but lend me the Ring...”
+132	”Frodo”	” No. < steps back >”
+132	”Boromir”	” Why do you recoil? I am no thief.”
+132	”Frodo”	” You are not yourself.”
+132	”Boromir”	” What chance do you think you have? They will find you! They will take the Ring and you will beg for death before the end!”
+132	”Boromir”	” Fool!”
+132	”Boromir”	” It is not yours save by unhappy chance. It could have been mine! < tackles Frodo > It should be mine! Give it to me!”
+132	”Boromir”	” Give it to me!”
+132	”Frodo”	” No!”
+132	”Boromir”	” Give me… Give me the Ring!”
+132	”Frodo”	” Nurgh…ugh!”
+132	”Boromir”	” < looks around desperately > I see your mind. You will take the Ring to Sauron! You will betray us! You go to your death and the death of us all! Curse you! Curse you! And all the halflings!”
+132	”Boromir”	” Frodo?...Frodo?...what have I done?...please...Frodo!”
+133	”Boromir”	” < in the background > Frodo, I'm sorry! Oh no!”
+134	”Aragorn”	” Frodo?”
+134	”Frodo”	” < startled > Huh?! It has taken Boromir.”
+134	”Aragorn”	” < intensely > Where is the Ring?”
+134	”Frodo”	” Stay away! < scrambles up and retreats from Aragorn. Aragorn comes after him >”
+134	”Aragorn”	” Frodo!”
+134	”Aragorn”	” I swore to protect you!”
+134	”Frodo”	” Can you protect me from yourself?!”
+134	”Frodo”	” Would you destroy it?”
+134	”The Ring”	” Aragorn...Aragorn…Elessar...”
+134	”Aragorn”	” I would have gone with you to the end, into the very fires of Mordor.”
+134	”Frodo”	” I know. Look after the others, especially Sam. He will not understand.”
+134	”Aragorn”	” Go on Frodo. < draws out his sword > Run. Run!”
+135	”Sam”	” Mr.Frodo!!!”
+135	”Lurtz”	” < to his troops > Find the Halfling! Find the Halfling!”
+135	”Aragorn”	” < jumps onto the Uruk-Hai > Elendil!!!!!”
+135	”Legolas”	” Aragorn! Go!”
+135	”Merry”	” Frodo!”
+135	”Pippin”	” < beckoning > Hide here quick! Come on!”
+135	”Pippin”	” < to Merry > What’s he doin'?”
+135	”Merry”	” He's leavin’.”
+135	”Pippin”	” No! < runs out to Frodo >”
+135	”Merry”	” Pippin! < comes after him >”
+135	”Merry”	” < quietly > Run Frodo! Go!”
+135	”Merry”	” Hey! Hey you! Over here!”
+135	”Pippin”	” Hey!”
+135	”Merry”	” Over here!”
+135	”Pippin”	” < waving his arms > This way!”
+135	”Pippin”	” Its working!”
+135	”Merry”	” I know its working! Run!”
+135	”Legolas”	” The Horn of Gondor!”
+135	”Aragorn”	” Boromir!”
+135	”Boromir”	” < to the hobbits > Run! Run!”
+135	”Merry and Pippin”	” Shire!!!!!”
+135	”Aragorn”	” No! < runs up and kneels near Boromir >”
+135	”Boromir”	” They took the little ones.”
+135	”Aragorn”	” Be still.”
+135	”Boromir”	” Frodo, where is Frodo?”
+135	”Aragorn”	” I let Frodo go.”
+135	”Boromir”	” Then you did what I could not. I tried to take the Ring from him.”
+135	”Aragorn”	” The Ring is beyond our reach now.”
+135	”Boromir”	” Forgive me, I did not see it. I have failed you all.”
+135	”Aragorn”	” No, Boromir, you fought bravely! You have kept your honor. < reaches out to pull the arrows from Boromir >”
+135	”Boromir”	” Leave it! It is over. The world of men will fall, and all will come to darkness… and my city to ruin.”
+135	”Aragorn”	” I do not know what strength is in my blood, but I swear to you I will not let the white city fall, nor our people fail!”
+135	”Boromir”	” Our people? Our people.”
+135	”Boromir”	” I would have followed you my brother, my captain, my king!”
+135	”Aragorn”	” Be at peace, son of Gondor. < bends and kisses Boromir on the brow >”
+136	”Sam”	” Frodo!”
+136	”Frodo”	” I wish the Ring had never come to me. I wish none of this had happened.”
+136	”Gandalf”	” So do all who live to see such times but that is not for them to decide. All you have to decide is what to do with the time that is given to you.”
+136	”Sam”	” Frodo no! Frodo! Mr. Frodo!”
+136	”Frodo”	” < quietly > No Sam. < continues to paddle away >”
+136	”Frodo”	” Go back Sam! I’m going to Mordor alone.”
+136	”Sam”	” Of course you are, and I’m coming with you!”
+136	”Frodo”	” You can’t swim! Sam!”
+136	”Frodo”	” Sam!!!”
+136	”Sam”	"” < dripping wet > I made a promise, Mr. Frodo. A promise! ""Don’t you leave him Samwise Gamgee."" And I don’t mean to! I don’t mean to.”"
+136	”Frodo”	” Oh Sam! < hug > Come on.”
+137	”Legolas”	” Hurry! Frodo and Sam have reached the eastern shore.”
+137	”Legolas”	” You mean not to follow them?”
+137	”Aragorn”	” Frodo’s fate is no longer in our hands.”
+137	”Gimli”	” Then it has all been in vain! The Fellowship has failed.”
+137	”Aragorn”	” < puts his hands on their shoulders > Not if we hold true to each other. We will not abandon Merry and Pippin to torment and death. Not while we have strength left. Leave all that can be spared behind. We travel light. Let’s hunt some orc!”
+137	”Gimli”	” Yes!!! Haha!”
+138	”Frodo”	” Mordor. I hope the others find a safer route.”
+138	”Sam”	” Strider will look after them.”
+138	”Frodo”	” I don’t suppose we’ll ever see them again.”
+138	”Sam”	” We may yet, Mr. Frodo. We may.”
+138	”Frodo”	” < turns, smiling > Sam, I’m glad you’re with me.”
